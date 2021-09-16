@@ -1,5 +1,3 @@
-# fe-sdp
-
 ## Project setup
 ```
 npm install
